@@ -1,6 +1,6 @@
 START PROGRAM:
 --------------
-ruby basic_interpreter.rb
+ruby basic-interpreter.rb
 
 
 GENERAL INFO:
